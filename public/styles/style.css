@@ -1,1 +1,207 @@
+#index{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#text{
+    font-family: 'NombresPin';
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 50px;
+}
+#text2{
+    font-family: 'NombresPin';
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
 
+#bgcPin{
+    background-color: rgba(0, 0, 0, 0.281);
+}
+
+#tamañoImg{
+    width: 300px;
+    height: 400px;
+}
+#div1{
+    float: left;
+}
+#div2{
+    float: right;
+}
+@font-face{
+    font-family: 'Titulo';
+    src: url(fuente.ttf);
+}
+#titulo{
+    text-align: center;
+    font-family: 'Titulo';
+    font-size: 60px;
+}
+@font-face{
+    font-family: 'NombresPin';
+    src: url(FuenteTitulos.ttf);
+}
+#FormPinto{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://i.pinimg.com/originals/1d/7c/87/1d7c87d01a2826ce0ef36764bc34b1b3.jpg);
+    background-size: 120%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+#tituloPin{
+    font-family: 'Titulo';
+    font-size: 50px;
+    text-align: center;
+}
+#Bio{
+    font-family: 'NombresPin';
+    font-size: 30px;
+}
+#contenidoBio{
+    font-family: 'Calibri';
+    font-size: 17px;
+}
+#contenidoPin{
+    font-family: 'Calibri';
+    font-size: 17px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.452);
+
+}
+#p1c1{
+    width: 300px;
+    height: 370px;
+    margin-left: 100px;
+}
+#p1c2{
+    width: 500px;
+    height: 370px;
+}
+#p1c3{
+    width: 500px;
+    height: 380px;
+}
+#p1c4{
+    width: 500px;
+    height: 400px;
+}
+#p1c5{
+    width: 300;
+    height: 380px;
+    margin-left: 110px;
+}
+#div1pin{
+    float: left;
+}
+#div2pin{
+    float: right;
+}
+
+
+
+#p2c1{
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+}
+#p2c2{
+    width: 500px;
+    height: 320px;
+}
+#p2c3{
+    width: 300px;
+    height: 430px;
+    margin-left: 60px;
+}
+#p2c4{
+    width: 300px;
+    height: 350px;
+    margin-left: 60px;
+}
+#p2c5{
+    width: 300px;
+    height: 550px;
+    margin-left: 60px;
+}
+#fondop2{
+    background-color: rgba(0, 0, 0, 0.356);
+}
+
+
+
+#p3c1{
+    width: 500px;
+    height: 400px;
+}
+#p3c2{
+    width: 500px;
+    height: 550px;
+}
+#p3c3{
+    width: 300px;
+    height: 450px;
+    margin-left: 20px;
+}
+#p3c4{
+    width: 500px;
+    height: 400px;
+}
+#p3c5{
+    width: 300px;
+    height: 550px;
+    margin-left: 20px;
+}
+
+
+
+.fondoBio{
+    background-color: rgba(0, 0, 0, 0.322);
+}
+#p4c1{
+    width: 350px;
+    height: 600px;
+    margin-left: 45px;
+}
+#p4c2{
+    width: 350px;
+    height: 500px;
+    margin-left: 45px;
+}
+#p4c3{
+    width: 400px;
+    height: 600px;
+}
+#p4c4{
+    width: 400px;
+    height: 650px;
+}
+#p4c5{
+    width: 400px;
+    height: 300px;
+    margin-left: 15px;
+}
+
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 1100px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 7px;
+  }
